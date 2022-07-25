@@ -1,0 +1,67 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+.container-fluid     {
+                        margin-top: 0.8em;
+}
+
+.info            {
+                    border: 0.2px solid rgba(94, 90, 90, 0.623);
+                    box-shadow: 1px 2px 2px 0px;
+                    padding: 2em;
+}
+
+.small-fonts            {
+                            font-size: 0.8em;
+}
+
+.side-navigation        {
+                            border: 0.1px solid rgba(128, 128, 128, 0.183);
+                            background-color: rgba(128, 128, 128, 0.379);
+}
+
+.button-content          {
+                        padding: 1.2em;
+}
+
+.btn            {
+                    margin: 1.2em 1.2em 0em 0em;
+}
+
+.code-details           {
+                            margin-top: 1em;
+}
+
+.no-text-decoration     {
+                            text-decoration: none;
+                            color: black;
+                            line-height: 1.2em;
+                            cursor: pointer;
+}
+
+.side-nav               {
+                            list-style: none;
+                            margin-top: 2em;
+}
+
+.bi         {
+                cursor: pointer;
+}
+
+.footer          {
+                            background-color: rgba(152, 152, 192, 0.328);
+                            padding: 2em;
+}
+
+.code-editor            {
+                            height: 25em;
+                            width: 100%;
+                            font-style: italic;
+                            overflow:auto;
+}
+
+.bi-star-fill:hover           {
+                                color: gold;
+}
+
+/* .bi-star-fill, .bi-star, .bi-star-half          {
+                                                    color: gold;
+} */
