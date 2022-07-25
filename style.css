@@ -58,7 +58,7 @@
                             overflow:auto;
 }
 
-.bi-star-fill:hover           {
+.bi-star:hover, .bi-star-half:hover, .bi-star-fill:hover           {
                                 color: gold;
 }
 
